@@ -1,6 +1,6 @@
 # Các ứng dụng cần có
-## Microsoft SQL sever management studio
-## Visual studio
+- Microsoft SQL sever management studio
+- Visual studio
 # Hướng dẫn
 Bước 1: Tải file và giải nén
 
